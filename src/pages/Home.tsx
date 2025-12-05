@@ -6,6 +6,7 @@ import Publications from "./Publications";
 import Team from "./Team";
 import Contact from "./Contact";
 import Gallery from "./Gallery";
+import TechnicalAdvisor from "./TechnicalAdvisor";
 
 export default function Home() {
   const [, setLocation] = useLocation();
@@ -63,8 +64,9 @@ export default function Home() {
       <About />
       <Gallery />
       <Research />
-      <Publications />
       <Team />
+      <Publications />
+      <TechnicalAdvisor />
       <Contact />
     </>
   );

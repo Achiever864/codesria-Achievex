@@ -35,24 +35,24 @@ const teamMembers = [
     linkedin:
       "https://www.linkedin.com/in/dr-ing-francis-dakyaga-ph-d-31628291/",
   },
-  {
-    name: "TEDONGMO Ludvin Nadège",
-    role: "Research Fellow",
-    image: team2,
-    bio: "Specializes in Peace and Security Studies and Policy and Institutional Dynamics in Africa",
-    institute: "University of Dschang, Dschang,Cameroon",
-    email: "",
-    linkedin: "https://www.linkedin.com/in/tedongmo-nad%C3%A8ge-04060196/",
-  },
-  {
-    name: "POUNTOUGNIGNI Ludovic Njuh",
-    role: "Research Fellow",
-    image: team1,
-    bio: "Specializes in African Regionalism & Integration and Political Economy",
-    institute: "University of Ziguinchor Senegal",
-    email: "",
-    linkedin: "https://www.linkedin.com/in/ludovic-njuh-bb2277b3/",
-  },
+  // {
+  //   name: "TEDONGMO Ludvin Nadège",
+  //   role: "Research Fellow",
+  //   image: team2,
+  //   bio: "Specializes in Peace and Security Studies and Policy and Institutional Dynamics in Africa",
+  //   institute: "University of Dschang, Dschang,Cameroon",
+  //   email: "",
+  //   linkedin: "https://www.linkedin.com/in/tedongmo-nad%C3%A8ge-04060196/",
+  // },
+  // {
+  //   name: "POUNTOUGNIGNI Ludovic Njuh",
+  //   role: "Research Fellow",
+  //   image: team1,
+  //   bio: "Specializes in African Regionalism & Integration and Political Economy",
+  //   institute: "University of Ziguinchor Senegal",
+  //   email: "",
+  //   linkedin: "https://www.linkedin.com/in/ludovic-njuh-bb2277b3/",
+  // },
 ];
 
 function Team() {

@@ -1,7 +1,7 @@
 import pi from "./../assets/pi.jpg";
 import a_pi from "./../assets/a_pi.jpg";
-import team1 from "./../assets/team1.jpg";
-import team2 from "./../assets/team2.jpg";
+// import team1 from "./../assets/team1.jpg";
+// import team2 from "./../assets/team2.jpg";
 import team3 from "./../assets/team3.jpg";
 import { Linkedin } from "lucide-react";
 
